@@ -1,0 +1,12 @@
+{
+  "domain": "greeWat",
+  "name": "Gree Water Heater",
+  "version": "1.0.0",
+  "requirements": ["pycryptodome"],
+  "codeowners": ["@cybaijie"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/cybaijie/ha-gree-water-heater#readme",
+  "issue_tracker": "https://github.com/cybaijie/ha-gree-water-heater/issues",
+  "homeassistant": "2024.1.0"
+}
