@@ -59,12 +59,6 @@ mv ha-gree-water-heater/custom_components/greeWat ./
    - **加密版本**：根据设备型号选 1 或 2
    - **超时时间**：默认 10 秒
 
-### YAML 配置（可选）
-
-```yaml
-# 不支持YAML配置，请使用UI配置
-```
-
 ---
 
 ## 📊 实体说明
