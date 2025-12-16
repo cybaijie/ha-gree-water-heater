@@ -73,6 +73,8 @@ mv ha-gree-water-heater/custom_components/greeWat ./
 | `sensor` | 热水器低温值 | 底部温度传感器 |
 | `sensor` | 实际热水占比 | 当前可用热水百分比 |
 | `sensor` | 目标热水占比 | 达到目标温度的热水量 |
+<img width="532" height="537" alt="image" src="https://github.com/user-attachments/assets/e31d197a-8900-47bc-bd26-45ba3e4f7e40" />
+<img width="618" height="527" alt="image" src="https://github.com/user-attachments/assets/84498efa-5abf-42ea-89f0-6227d9e8cdef" />
 
 ---
 
